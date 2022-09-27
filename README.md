@@ -8,7 +8,7 @@ AA-Net: infer instance-level shape from pose;
 CT-Net: transfer content with specific mechanisms;
 
 ## Note
-we will release our code and pretrained model after publication.
+Our paper has been accepted by TMM. We will release our code soon.
 
 ## Example
 ![image](img/1.gif)
