@@ -1,4 +1,0 @@
-scikit-image
-opencv-python
-pillow
-matplotlib
